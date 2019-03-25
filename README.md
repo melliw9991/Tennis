@@ -9,3 +9,6 @@ leeftjd INT( 10 ) NOT NULL
 )
 
 
+
+https://phppot.com/php/insert-xml-data-to-mysql-table/
+
